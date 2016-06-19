@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace MonopolyBO
 {
-    public class Class1
+    class Board
     {
+
     }
 }
