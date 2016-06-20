@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MonopolyBO
 {
-    class Property
+    class Property : Square
     {
         public int Id { get; set; }
         public string Name { get; set; }
