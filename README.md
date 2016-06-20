@@ -14,3 +14,4 @@ I dunno if we need / use this but I thought I'll just add what we need to do ^^
 
 **To dos**
 Dice: Would it be a good idea to make 2 random nums? It gives the advantage of being able to tell whether a double has been thrown
+Yea. Write a property/method that returns a bool if dice1 == dice2
