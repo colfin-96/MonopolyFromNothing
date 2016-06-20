@@ -16,7 +16,7 @@ Paul- For now output through the console, later use windows forms or an imported
 Paul- Good question, we need to make a list of the different components people could work on separately and how they merge together.
 
 
-*Check Out the new Branch! David merge it if you are happy with it*
+##***Check Out the new Branch! David merge it if you are happy with it***##
 
 **To dos**
 Dice: Would it be a good idea to make 2 random nums? It gives the advantage of being able to tell whether a double has been thrown
