@@ -2,7 +2,7 @@
 
 ***Also check out the wiki for further reference!***
 
-**General questions**
+##General questions
 
 1. Are we going to enable various Monopoly rules or just choose one?
     * Paul -> Just choose one. The rest will be easily implemented once have completed the base game.
@@ -13,6 +13,6 @@
 
 ##***Check Out the new Branch! David merge it if you are happy with it***##
 
-**To dos**
+##To dos
 Dice: Would it be a good idea to make 2 random nums? It gives the advantage of being able to tell whether a double has been thrown
 Yea. Write a property/method that returns a bool if dice1 == dice2
