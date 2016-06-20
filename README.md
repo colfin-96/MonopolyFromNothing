@@ -1,6 +1,6 @@
 # Readme
 
-***Also check out the wiki for further reference!***
+***Also check out the wiki for further reference!***//
 ***Check Out the new Branch! David merge it if you are happy with it***
 
 ##General questions
