@@ -1,5 +1,7 @@
 ### Readme ###
 
+***Also check out the wiki for further reference!***
+
 **General questions**
 
 1) Are we going to enable various Monopoly rules or just choose one?
