@@ -18,6 +18,7 @@ namespace MonopolyBO
         public int NoHouses { get; set; }
         public int CostOfHouse { get; set; }
         public string Colour { get; set; }
+        public bool doesThisWork { get; set; }
 
 
 
