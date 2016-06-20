@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace MonopolyBO
 {
-    class Square
+    class Station : Square
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-
+        public int StationId { get; set; }
+        
+        public int Value { get; set; }
     }
 }
