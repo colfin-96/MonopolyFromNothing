@@ -4,18 +4,12 @@
 
 **General questions**
 
-1) Are we going to enable various Monopoly rules or just choose one?
-
-Paul- Just choose one. The rest will be easily implemented once have completed the base game.
-
-2) How are we going to do the graphics?
-
-Paul- For now output through the console, later use windows forms or an imported graphics library
-
-3) Who's gonna do what?
-
-Paul- Good question, we need to make a list of the different components people could work on separately and how they merge together.
-
+1. Are we going to enable various Monopoly rules or just choose one?
+  *Paul -> Just choose one. The rest will be easily implemented once have completed the base game.
+2. How are we going to do the graphics?
+  *Paul -> For now output through the console, later use windows forms or an imported graphics library
+3. Who's gonna do what?
+  *Paul -> Good question, we need to make a list of the different components people could work on separately and how they merge together.
 
 ##***Check Out the new Branch! David merge it if you are happy with it***##
 
