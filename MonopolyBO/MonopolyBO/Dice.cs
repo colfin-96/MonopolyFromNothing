@@ -12,7 +12,7 @@ namespace MonopolyBO
         public int Roll()
         {
             Random rnd = new Random();
-            return rnd.Next(1, 13); // creates a number between 1 and 12 (2 dice)
+            return rnd.Next(2, 13); // creates a number between 1 and 12 (2 dice) - edit: needs to be between 2 and 12 because 2 times 1 is 2 ;)
         }
     }
 }
