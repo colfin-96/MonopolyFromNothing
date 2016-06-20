@@ -1,4 +1,4 @@
-### Readme ###
+# Readme
 
 ***Also check out the wiki for further reference!***
 
