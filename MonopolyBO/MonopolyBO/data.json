@@ -1,0 +1,57 @@
+﻿{
+    "NonProperties":[
+		{"Id":0,"Name":"Go","GroupId":13},
+		{"Id":2,"Name":"Community Chest","GroupId":11},
+		{"Id":4,"Name":"Income Tax","GroupId":10},
+		{"Id":7,"Name":"Chance","GroupId":12},
+		{"Id":10,"Name":"Jail","GroupId":14},
+		{"Id":17,"Name":"Community Chest","GroupId":11},
+		{"Id":20,"Name":"Free Parking","GroupId":15},
+		{"Id":22,"Name":"Chance","GroupId":12},
+		{"Id":30,"Name":"Go To Jail","GroupId":16},
+		{"Id":36,"Name":"Chance","GroupId":12},
+		{"Id":38,"Name":"Super Tax","GroupId":10}
+	],
+	"Cards":[
+		{
+			"CommunityChest":[
+				{"Id": 0, "Text": "Get out of jail free. This card may be kept until needed or sold.", "Type": "JailFree"},
+				{"Id": 1, "Text": "Pay a £10 fine or take a 'Chance'.", "Type": "Chance"},
+				{"Id": 2, "Text": "Advance to 'Go'", "Type": "Target", "Value": 0},
+				{"Id": 2, "Text": "Go back to Old Kent Road", "Type": "Target", "Value": 1},
+				{"Id": 2, "Text": "Go to jail. Move directly to jail. Do not pass 'Go'. Do not collect £200.", "Type": "Target", "Value": 10},
+			],
+			"Chance":[]
+		}
+	],
+	"Properties": [
+		{"Id":1,"Name":"Old Kent Road","GroupId":0,"Value":60,"Mortgage":30},
+		{"Id":3,"Name":"Whitechapel Road","GroupId":0,"Value":60,"Mortgage":30},
+		{"Id":5,"Name":"Kings Cross Station","GroupId":9,"Value":200,"Mortgage":100},
+		{"Id":6,"Name":"The Angel Islington","GroupId":1,"Value":100,"Mortgage":50},
+		{"Id":8,"Name":"Euston Road","GroupId":1,"Value":100,"Mortgage":50},
+		{"Id":9,"Name":"Pentonville Road","GroupId":1,"Value":120,"Mortgage":60},
+		{"Id":11,"Name":"Pall Mall","GroupId":2,"Value":140,"Mortgage":70},
+		{"Id":12,"Name":"Electric Company","GroupId":8,"Value":150,"Mortgage":75},
+		{"Id":13,"Name":"Whitehall","GroupId":2,"Value":140,"Mortgage":70},
+		{"Id":14,"Name":"Northumberland Avenue","GroupId":2,"Value":160,"Mortgage":80},
+		{"Id":15,"Name":"Marylebone Station","GroupId":9,"Value":200,"Mortgage":100},
+		{"Id":16,"Name":"Bow Street","GroupId":3,"Value":180,"Mortgage":90},
+		{"Id":18,"Name":"Marlborough Street","GroupId":3,"Value":180,"Mortgage":90},
+		{"Id":19,"Name":"Vine Street","GroupId":3,"Value":200,"Mortgage":100},
+		{"Id":21,"Name":"The Strand","GroupId":4,"Value":220,"Mortgage":110},
+		{"Id":23,"Name":"Fleet Street","GroupId":4,"Value":220,"Mortgage":110},
+		{"Id":24,"Name":"Trafalgar Square","GroupId":4,"Value":240,"Mortgage":120},
+		{"Id":25,"Name":"Fenchurch St Station","GroupId":9,"Value":200,"Mortgage":100},
+		{"Id":26,"Name":"Leicester Square","GroupId":5,"Value":260,"Mortgage":130},
+		{"Id":27,"Name":"Covenry Street","GroupId":5,"Value":260,"Mortgage":130},
+		{"Id":28,"Name":"Water Works","GroupId":8,"Value":150,"Mortgage":75},
+		{"Id":29,"Name":"Piccadilly","GroupId":5,"Value":280,"Mortgage":140},
+		{"Id":31,"Name":"Regent Street","GroupId":6,"Value":300,"Mortgage":150},
+		{"Id":32,"Name":"Oxford Street","GroupId":6,"Value":300,"Mortgage":150},
+		{"Id":33,"Name":"Community Chest","GroupId":11},
+		{"Id":34,"Name":"Bond Street","GroupId":6,"Value":320,"Mortgage":160},
+		{"Id":35,"Name":"Liverpool Street Station","GroupId":9,"Value":200,"Mortgage":100},
+		{"Id":37,"Name":"Park Lane","GroupId":7,"Value":350,"Mortgage":175}
+    ]
+}

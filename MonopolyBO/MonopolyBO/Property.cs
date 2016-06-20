@@ -14,7 +14,6 @@ namespace MonopolyBO
         public bool IsMortgaged { get; set; }
         public int OwnerId { get; set; }
         public bool IsOwned { get { if (OwnerId == -1) return false; return true; } }
-        public int GroupId { get; set; }
 
         public int NoHouses { get; set; }
         public int CostOfHouse { get { return SideOfBoard * 50; } }
