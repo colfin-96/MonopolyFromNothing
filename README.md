@@ -1,8 +1,8 @@
 # Readme
 
-***Also check out the [wiki](https://bitbucket.org/globaleliteinc/monopolyrepos/wiki/Home) for further reference!***  
+***Check out the [wiki](https://bitbucket.org/globaleliteinc/monopolyrepos/wiki/Home) for further reference!***  
   
-***Check Out the new Branch! David merge it if you are happy with it***  
+***Also check out the new branch! David - merge it if you are happy with it!***  
   
 If you want a cheat sheet for writing markdown, go to this link: [Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
 
