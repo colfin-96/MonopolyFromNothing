@@ -4,7 +4,9 @@
   
 ***Also check out the new branch! David - merge it if you are happy with it!***  
   
-If you want a cheat sheet for writing markdown, go to this link: [Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+If you want a cheat sheet for writing markdown, go to this link: [Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)  
+
+This page helps in making markdown tables: [Markdown Tables](http://www.tablesgenerator.com/markdown_tables#)
 
 ##General questions
 
