@@ -15,8 +15,8 @@ namespace MonopolyBO
         public int Position { get; set; }
         public bool IsInJail {get{if (Position == 10)return true;return false;}}
 
-        public int[] Properties { get; set; }
-        public int[] Cards { get; set; }
+        public int[] OwnedProperties { get; set; }
+        public int[] OwnedCards { get; set; }
 
 
 
@@ -28,8 +28,13 @@ namespace MonopolyBO
                 PlayJail();
             else
             {
-
+                PlayNormalRound();
             }
+        }
+
+        private void PlayNormalRound()
+        {
+            
         }
 
         private void PlayJail()
